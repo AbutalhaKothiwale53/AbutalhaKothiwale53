@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbutalhaKothiwale53
-- 👀 I’m interested in Artificial Intelligence, Programming and Developing. 
-- 🌱 I’m currently learning web and Programming languages.
+- 👀 I’m interested in Artificial Intelligence, Programming & Web Developing. 
+- 🌱 I’m currently working in Infosys LTD
 - 💞️ I’m looking to collaborate on frontend and backend websites
 - 📫 How to reach me mail me on talhakothiale53@gmail.com or request me on github.
 
