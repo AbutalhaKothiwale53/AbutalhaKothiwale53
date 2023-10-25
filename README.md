@@ -1,4 +1,4 @@
-# 👋 Hi, I’m AbutalhaKothiwale53
+# 👋 Hi, I’m Abutalha Kothiwale
 
 - 🌱 I’m interested in Artificial Intelligence, CyberSecurity & Web Developing.
 - 🏢 I’m currently working in Infosys Ltd.
@@ -33,7 +33,7 @@ I'm a Full Stack Developer with 2 years of professional experience, currently wo
 - I've total 2 years of experience working as a professional developer.
 ## Projects
 
-### E-commerce Website
+### Chickenwala
 
 - Developed an E-commerce website that allows users to buy a wide variety of meat products online with swift delivery.
 - Designed a user-friendly UI for an optimal shopping experience.
@@ -47,7 +47,7 @@ I'm a Full Stack Developer with 2 years of professional experience, currently wo
 - The website offers a seamless meat shopping experience with a focus on user convenience and data security.
 
 
-### Game Development (College Project)
+### CricCup (College Project)
 
 - Collaborated on a game development project during college, showcasing teamwork and problem-solving skills.
 - Created a simple cricket game where two players can take turns to bat.
