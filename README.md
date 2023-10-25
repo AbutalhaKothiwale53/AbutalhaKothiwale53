@@ -8,11 +8,23 @@
 
 ## Skills
 
-- Java    - Spring Boot  - Spring Microservices - REST API
-- HTML5   - CSS3         - Javascript           - Node.js
-- ReactJS - Angular      - MaterialUI           - Bootstrap
-- Docker  - Kubernetes   - MySQL                - Python
-- MongoDB
+- Java ☕
+- Spring Boot ⚙️
+- Spring Microservices 🌱
+- REST API 🌐
+- HTML5 🌐
+- CSS3 🎨
+- JavaScript 📜
+- Node.js 🚀
+- ReactJS ⚛️
+- Angular 🅰️
+- MaterialUI 🔍
+- Bootstrap 📊
+- Docker 🐳
+- Kubernetes ☸️
+- MySQL 🐬
+- Python 🐍
+- MongoDB 🍃
 
 
 ## About
