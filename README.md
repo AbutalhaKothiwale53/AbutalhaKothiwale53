@@ -2,7 +2,7 @@
 
 - 🌱 I’m interested in Artificial Intelligence, CyberSecurity & Web Developing.
 - 🏢 I’m currently working in Infosys Ltd.
-- 👨‍💻 Full stack Developer
+- 👨‍💻 Full stack Developer / Cloud Engineer
 - 🌐 Open to work and contribute in open source projects.
 - 📧 How to reach me: mail me at talhakothiale53@gmail.com
 
