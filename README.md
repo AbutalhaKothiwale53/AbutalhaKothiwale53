@@ -1,13 +1,15 @@
 # 👋 Hi, I’m Abutalha Kothiwale
 
-- 🌱 I’m interested in Artificial Intelligence, CyberSecurity & Web Developing.
+- 🌱 I’m interested in Cloud Architectire and Infrastructure, Artificial Intelligence, CyberSecurity & Web Developing.
 - 🏢 I’m currently working in Infosys Ltd.
-- 👨‍💻 Full stack Developer / Cloud Engineer
+- 👨‍💻 Full stack Developer / Cloud Engineer with expertise in Cloud Architecture and Infrastructure management.
 - 🌐 Open to work and contribute in open source projects.
 - 📧 How to reach me: mail me at talhakothiale53@gmail.com
 
 ## Skills
 
+- AWS & GCP ☁️
+- Ansible
 - Java ☕
 - Spring Boot ⚙️
 - Spring Microservices 🌱
@@ -17,7 +19,6 @@
 - JavaScript 📜
 - Node.js 🚀
 - ReactJS ⚛️
-- Angular 🅰️
 - MaterialUI 🔍
 - Bootstrap 📊
 - Docker 🐳
@@ -29,10 +30,10 @@
 
 ## About
 
-I'm a Full Stack Developer with 2 years of professional experience, currently working at Infosys Ltd. My interests and expertise revolve around Artificial Intelligence, CyberSecurity, and Web Development. I'm passionate about creating robust and efficient solutions, and I'm open to working on open-source projects.
+I'm a Full Stack Developer with 3 years of professional experience, currently working at Infosys Ltd. My interests and expertise revolve around Cloud Architectire and Infrastructure, Artificial Intelligence, CyberSecurity, and Web Development. I'm passionate about creating robust and efficient solutions, and I'm open to working on open-source projects.
 
 ## Work Experience
-- I've total 2 years of experience working as a professional developer.
+- I've total 3 years of experience working as a professional developer and Cloud Engineer.
 ## Projects
 
 ### Chickenwala
